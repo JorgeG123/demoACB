@@ -1,0 +1,10 @@
+{
+  "main": "demoacb.raml",
+  "name": "demoACB",
+  "classifier": "raml",
+  "apiVersion": "v1",
+  "descriptorVersion": "1.0.0",
+  "groupId": null,
+  "assetId": "demoacb",
+  "version": "1.0.0"
+}
